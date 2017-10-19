@@ -1,0 +1,25 @@
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.exe.config
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.exe
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.pdb
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csprojResolveAssemblyReference.cache
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Form1.resources
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Properties.Resources.resources
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csproj.GenerateResource.Cache
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csproj.CoreCompileInputs.cache
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.exe
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.pdb
+E:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Form2.resources
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.exe.config
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.exe
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\bin\Debug\cookie clicker.pdb
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csprojResolveAssemblyReference.cache
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Form1.resources
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Form2.resources
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie_clicker.Properties.Resources.resources
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csproj.GenerateResource.Cache
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.csproj.CoreCompileInputs.cache
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.exe
+F:\cookie clicker windows form application\cookie clicker\cookie clicker\obj\Debug\cookie clicker.pdb
+G:\finished made games\cookie clicker\cookie clicker\cookie clicker\bin\Debug\cookie clicker.exe.config
+G:\finished made games\cookie clicker\cookie clicker\cookie clicker\obj\Debug\cookie clicker.exe
+G:\finished made games\cookie clicker\cookie clicker\cookie clicker\obj\Debug\cookie clicker.pdb
